@@ -1,0 +1,26 @@
+Create - post
+Read/show - Get
+Update - Put
+Destroy - Delete
+
+CRUD
+
+Create = new + create
+Read/show 
+REad all = index
+Update = edit + update
+Destroy = destroy
+
+
+
+Twitter's Resources:
+Users
+Tweet
+Sessions
+
+
+Facebook Resources:
+Users
+Status update
+photos
+
